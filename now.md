@@ -10,7 +10,7 @@ Last Update: 17th May, 2022
 
   
 
-I am a life long learner and bibliophile. Inspired by [Derek Siver’s](https://sivers.org/) [Now Project](https://nownownow.com), this page describes what I’m currently learning. This page will be focused on my professional learning journey.
+I am a Lifelong Learner and Bibliophile. Inspired by [Derek Siver’s](https://sivers.org/) [Now Project](https://nownownow.com), this page describes what I’m currently learning. This page will be focused on my professional learning journey.
 
  - Book: [The Effective Engineer by Edmond Lau](https://g.co/kgs/vjdHEd)
  - Learning: [Learning Apache Spark](https://spark.apache.org/)
