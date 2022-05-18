@@ -1,13 +1,24 @@
 ---
 layout: page
-title: About
+title: About Me
+permalink: /about/
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+## Joanita Dsouza
+
+I am an experienced Senior Software Engineer with expertise building Distributed Systems and a growing interest in Machine Learning.
+
+
+### Education
+
+**Masters in Computing**
+University Of Utah
+2011 - 2013
+
+**Bachelor of Engineering, Computer Engineering**
+Mumbai University
+2005 - 2009
+
+---
