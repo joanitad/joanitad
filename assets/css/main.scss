@@ -5,4 +5,8 @@
 
 @import "hydeout";
 
-.full-name { color: #fff; font-size: 1.85rem; font-weight: 600; line-height: 1.25; margin-bottom: 0rem; text-rendering: optimizeLegibility; }
+#sidebar .site-title { font-size: 1.85rem;margin-bottom: 0rem}
+
+.home #sidebar .site-title {
+    font-size: 1.85rem;
+}

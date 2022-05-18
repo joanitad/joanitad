@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 layout: post
-excerpt: "Introducing my Github Profile page"
+excerpt: "Introducing my Github Page"
 categories:
   - hello world
 tags:
