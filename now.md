@@ -12,7 +12,7 @@ What I am currenting learning
  - Book: The Staff Engineer's Path By Tanya Reilly
  - Audiobook : Laws of UX by Jon Yablonski
 
-Last Update: 17th May, 2022
+Previous Update: 17th May, 2022
 
 What I am currenting learning
 
